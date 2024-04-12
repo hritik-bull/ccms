@@ -16,4 +16,4 @@ People may register for various cricket training batches through the website con
 Recent notices can be seen on the start page as they are posted by the admin.
 
 ### Admin Login: 
-Admin can approve and disapprove various ground booking requests, may check various members of the club and also people registered for various batches.
+Admin can approve and disapprove various ground booking requests, may check various members of the club and also people registered for various batches.# ccms
